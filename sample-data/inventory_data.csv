@@ -1,0 +1,11 @@
+Product ID,Product Name,Category,Supplier,Stock Quantity,Reorder Level,Unit Price
+P001,Laptop,Electronics,TechSupply,50,10,1000
+P002,Headphones,Electronics,AudioGear,200,50,150
+P003,Chair,Furniture,FurniCo,150,30,75
+P004,Desk,Furniture,OfficeMart,100,20,200
+P005,Monitor,Electronics,ScreenWorld,75,15,250
+P006,Keyboard,Electronics,TechSupply,300,50,50
+P007,Mouse,Electronics,TechSupply,500,100,25
+P008,Sofa,Furniture,FurniCo,25,5,500
+P009,Table,Furniture,OfficeMart,80,20,300
+P010,Lamp,Furniture,LightHouse,120,40,20
